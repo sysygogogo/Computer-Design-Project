@@ -27,3 +27,5 @@ this project is builed by SIYUAN,LIULING,HULINGLING,for the Computer Design Cont
 - skimage 0.19.3
 
 - sklearn 1.2.1
+
+7.上传部分仅为项目核心代码，有部分代码我们自己保留。
