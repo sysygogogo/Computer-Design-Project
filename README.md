@@ -1,5 +1,5 @@
 # Computer-Design-Project
-this project is builed by SIYUAN,LIULING,HULINGLING,for the Computer Design Context.
+this project is builed by SIYUAN,LIULING,HULINGLING,for the Computer Design Contect.
 
 1.文件夹artdaq是项目所需的函数库。
 2._pycache_文件夹下为项目编译版缓存，与项目无关。
